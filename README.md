@@ -68,26 +68,41 @@
 https://github.com/owenmanis123/latihan-vcs1.git
 
 
+![clone](ttr/clone.png) <br>
 
 
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut :
 
 
+`cd Latihan18/` <br>
+
+![cd](ttr/cd.png) <br>
+
+![contoh di visual studio code](ttr/vs.png) <br>
 
 
+* Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
 
 
+`git add .` <br>
+
+![contoh git add](ttr/add.png)
+
+* Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 
 
+`git commit "Update README.md"` <br>
 
+![contoh git commit](ttr/commit.png)
 
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
 
+`git push` <br>
 
+![contoh kalo anda telah berhasil memasukan data](ttr/push.png)
 
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
-
-
-
-
-
-
-
+![hasil input](ttr/ptr.png) <br>
