@@ -11,13 +11,16 @@
 
 ![installing](ttr/installing.png)
 
-`git --version`
+`git --version` <br>
+
 ![version](ttr/version.png)
 
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan syntax berikut : <br>
 
 `git config --global user.name "masukan nama anda"` <br>
 `git config --global user.email "masukan email anda"` <br>
+
+![membuat user](ttr/user)
 
 ![setelah membuat user](ttr/name.png)
 
