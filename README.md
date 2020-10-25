@@ -105,4 +105,4 @@ https://github.com/owenmanis123/latihan-vcs1.git
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
-![hasil input](ttr/ptr.png) <br>
+![hasil input](ttr/tpr.png) <br>
