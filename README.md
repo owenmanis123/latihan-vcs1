@@ -20,7 +20,13 @@
 `git config --global user.name "masukan nama anda"` <br>
 `git config --global user.email "masukan email anda"` <br>
 
-![membuat user](ttr/user)
+![membuat user](ttr/user.png)
+
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
+
+`git config --global user.name` <br>
+`git config --global user.email` <br>
+
 
 ![setelah membuat user](ttr/name.png)
 
