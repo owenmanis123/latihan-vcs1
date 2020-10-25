@@ -1,4 +1,5 @@
-# latihan-vcs1
-**nama :owenhutajulu**
-**nim  :312010155**
-**kelas:TI.20.A1**
+
+**nama :owenhutajulu** <br>
+**nim  :312010155** <br>
+**kelas:TI.20.A1** <br>
+
