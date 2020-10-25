@@ -5,13 +5,13 @@
 
 # Langkah-langkah penggunaan git
 * Download Git terlebih dahulu, dengan link berikut ini :[click here](https://git-scm.com/)
-![git](foto/git.png)
+![git](ttr/git.png)
 
 
 
 
 
 
-
+ll
 
 
